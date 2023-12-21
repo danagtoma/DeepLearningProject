@@ -10,7 +10,7 @@ Welcome to the repository for our deep learning course project! This project enc
   
 - **model_final:** The `model_final` directory contains our trained models.
 
-- **project_final.ipynb:** The `project_final.ipynb:` file is a Jupyter notebook containing all the code for our project.
+- **project_final.ipynb:** The `project_final.ipynb` file is a Jupyter notebook containing all the code for our project.
 
 ## Dataset
 
@@ -31,10 +31,10 @@ The goal of the project is to  teach a neural network to perform this segmentati
 ## Usage
 
 - **Loading Models:**
-  Change the main_path variable in Parameters with the path to your folder that contains the model_final folder and run all the cells in Load Model.
+  Change the `main_path` variable in *Parameters* with the path to your folder that contains the `model_final` folder and run all the cells in *Load Model*.
 
 - **Evaluating Results:**
-  After loading the model run all the cells in Show Some Results and Prediction to see the results and the ROC curve. To test the model on images with noise run all the cells in Noise. To see results with a noisy model load one of the models with noise (as above) and run all the cells in Evaluation in the corresponding noise type.
+  After loading the model run all the cells in *Show Some Results* and *Prediction* to see the results and the ROC curve. To test the model on images with noise run all the cells in *Noise*. To see results with a noisy model load one of the models with noise (as above) and run all the cells in *Evaluation* in the corresponding noise type.
 
 ## Authors
 
