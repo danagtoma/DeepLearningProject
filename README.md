@@ -6,9 +6,11 @@ Welcome to the repository for our deep learning course project! This project enc
 
 ## Contents
 
-- **Code:** The `code` directory contains a Jupyter notebook containing all the code for our project and a `model_final` folder containing our trained models.
+- **Data:** The `Data` directory contains the dataset utilized in our experiments (provided by the supervisor).
+  
+- **model_final:** The `model_final` directory contains our trained models.
 
-- **Data:** The `training_dataset` directory contains the dataset utilized in our experiments (provided by the supervisor).
+- **project_final.ipynb:** The `project_final.ipynb:` file is a Jupyter notebook containing all the code for our project.
 
 ## Dataset
 
