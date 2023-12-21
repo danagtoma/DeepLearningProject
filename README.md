@@ -15,3 +15,9 @@ Welcome to the repository for our deep learning course project! This project enc
 - **Training Models:**
 
 - **Evaluating Results:**
+
+## Authors
+
+- David Basilio Rodriguez Cortez (s231486)
+- Diego Jimenez Pasillas (s231479)
+- Dana Georgiana Toma (s232042)
