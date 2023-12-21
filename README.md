@@ -8,13 +8,15 @@ Welcome to the repository for our deep learning course project! This project enc
 
 - **Code:** The `code` directory contains a Jupyter notebook containing all the code for our project.
 
-- **Data:** The `data` directory contains the dataset utilized in our experiments.
+- **Data:** The `training_dataset` directory contains the dataset utilized in our experiments (provided by the supervisor).
 
 ## Usage
 
-- **Training Models:**
+- **Loading Models:**
+  Change the main_path variable in Parameters with the path to your dataset and run all the cells in Load Data.
 
 - **Evaluating Results:**
+
 
 ## Authors
 
